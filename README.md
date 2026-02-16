@@ -1,6 +1,6 @@
 # 💰 Where-to-save-in-the-UK
 
-This model estimates post-tax disposable income across UK cities using for me and my partner:
+This model estimates mine and my partner's post-tax disposable income across various UK cities:
 - Income tax bands
 - National Insurance
 - Student loan deductions
