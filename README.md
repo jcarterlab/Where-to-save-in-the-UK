@@ -9,3 +9,5 @@ This model estimates mine and my partner's post-tax disposable income across var
 <p align="center">
   <img src="monthly_disposable_income.png" width="700">
 </p>
+
+📘 **Notebook:** [See the full modelling workflow →](Where to save in the UK.ipynb)
