@@ -1,4 +1,4 @@
-# 📊 Where-to-save-in-the-UK
+# 💰 Where-to-save-in-the-UK
 
 This model estimates post-tax disposable income across UK cities using for me and my partner:
 - Income tax bands
@@ -7,5 +7,5 @@ This model estimates post-tax disposable income across UK cities using for me an
 - Estimated rent & living costs
 
 <p align="center">
-  <img src="figures/monthly_disposable_income.png" width="700">
+  <img src="monthly_disposable_income.png" width="700">
 </p>
